@@ -1,0 +1,31 @@
+body
+{
+background:linear-gradient(to right top,rgb(94, 0, 94),rgb(136, 0, 122),rgb(185, 0, 163),rgb(238, 0, 234),rgb(234, 74, 255));
+}
+
+.heading
+{
+    font-size: 250%;
+    font-family: fantasy;
+    color:rgb(228, 0, 187);
+    width: 100%;
+    margin: 0%;
+}
+
+#object_name
+{
+    color:aliceblue;
+    font-family:cursive;
+    font-size:180%;
+}
+
+#start
+{
+font-size: 175%;
+}
+
+
+#status
+{
+    font-size: 175%;
+}
