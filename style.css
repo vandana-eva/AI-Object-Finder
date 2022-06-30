@@ -29,3 +29,11 @@ font-size: 175%;
 {
     font-size: 175%;
 }
+
+canvas
+{
+border-color: rgb(214, 147, 255);
+border-style: double;
+border-radius: 16px;
+box-shadow: 8px rgb(71, 0, 87);
+}
